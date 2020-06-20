@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App">
       {/* PrintMessage */}
-       <PrintMessage message="Hello Bootcamp- 2020!" />  
+       <PrintMessage message="Bootcamp- 2020!" /> 
+       <hr/>
+       <PrintMessage message="Assignment 2" /> 
     </div>
   );
 }
